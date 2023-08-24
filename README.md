@@ -2,7 +2,8 @@
 
 Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates mouse clicks for semi-automatic or burst-fire weapons in the game, enhancing your gaming experience.
 
-![Macro for COD BO2](images/img_menuapp.png)
+![Gameplay Screenshot](images/img_showapp.png)
+
 
 ## Table of Contents
 
@@ -23,6 +24,11 @@ Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates 
 ## Usage
 
 1. After launching `macro-bo2.exe`, a graphical interface will appear.
+
+<p align="center">
+<img src="images/img_menuapp.png" alt="Macro for COD BO2">
+</p>
+
 2. Choose your weapon from the available options.
 3. Click the "Activate" button to activate the macro.
 4. The interface window will close, and the macro will be active.
@@ -59,4 +65,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 By using this macro tool responsibly, you can enhance your gameplay experience while maintaining fair and ethical gaming practices.
 
-![Gameplay Screenshot](images/img_showapp.png)
