@@ -11,7 +11,6 @@ Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates 
 - [Usage](#usage)
 - [Instructions](#instructions)
 - [Returning to the Interface](#returning-to-the-interface)
-- [Exiting the Program](exiting-the-program)
 - [Features](#features)
 - [Support](#support)
 - [License](#license)
@@ -45,8 +44,6 @@ Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates 
 
 - If you wish to access the interface again after activating the macro, simply press the `Esc` key.
 - This will reopen the interface window, allowing you to make changes.
-
-## Exiting the Program
 
 - To completely close the program, simply close the interface window by clicking the close button (X) or using the window's close command.
 
