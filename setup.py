@@ -8,7 +8,7 @@ import sys
 base = 'Win32GUI' if sys.platform=='win32' else None
 
 executables = [
-    Executable('macro.py', base=base)
+    Executable('macro-bo2.py', base=base)
 ]
 
 setup(name='macro-bo2',
