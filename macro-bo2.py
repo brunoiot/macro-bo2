@@ -36,13 +36,13 @@ with kb.Events() as events:
         # Configure the delay time based on the chosen weapon's fire rate
         match choosed_weapon:
             case "M8A1":
-                delay = 0.098  # Adjusted delay for M8A1 fire rate
+                delay = 0.0479  # Adjusted delay for M8A1 fire rate
             case "FAL":
-                delay = 0.1    # Adjusted delay for FAL fire rate
+                delay = 0.0949    # Adjusted delay for FAL fire rate
             case "SWAT":
-                delay = 0.125  # Adjusted delay for SWAT fire rate
+                delay = 0.01  # Adjusted delay for SWAT fire rate
             case "Chicom":
-                delay = 0.048  # Adjusted delay for Chicom fire rate
+                delay = 0.05  # Adjusted delay for Chicom fire rate
             case "Five Seven":
                 delay = 0.08   # Adjusted delay for Five Seven fire rate
             case _:
