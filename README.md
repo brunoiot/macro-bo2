@@ -9,6 +9,9 @@ Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates 
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Instructions](#instructions)
+- [Returning to the Interface](#returning-to-the-interface)
+- [Exiting the Program](exiting-the-program)
 - [Features](#features)
 - [Support](#support)
 - [License](#license)
