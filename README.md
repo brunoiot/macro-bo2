@@ -14,11 +14,11 @@ Welcome to the Macro for Call of Duty: Black Ops 2 project! This tool automates 
 
 ## Getting Started
 
-1. **Download**: Download the `build.zip` file from the latest release on the [Releases](https://github.com/brunoiot/macro-bo2/releases) page.
+1. **Download**: Download the `macro-bo2.zip` file from the latest release on the [Releases](https://github.com/brunoiot/macro-bo2/releases) page.
 
 2. **Unzip**: Unzip the downloaded file to a directory of your choice.
 
-3. **Run**: Run the executable file (`macro.exe`).
+3. **Run**: Run the executable file (`macro-bo2.exe`).
 
 ## Usage
 
